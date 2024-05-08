@@ -6,4 +6,10 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
+## 💻 Tech Stack
+
+- Javascript
+- HTML
+- CSS
+
 **<p align='center'>You can find the website live <a href="https://nqueens.z29.web.core.windows.net/">here</a></p>**
